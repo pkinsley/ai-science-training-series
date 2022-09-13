@@ -1,6 +1,6 @@
 # GitHub Introduction: Homework Submissions
 
-You will submit weekly homeworks via this Google Form: __put-here__
+You will submit weekly homeworks via this Google Form:https://forms.gle/HD2QKAhj6h5jswYY
 The form expects you to submit a URL to a file on [github.com](github.com). You will need an account on [GitHub](github.com) to do this.
 
 You will also need to setup SSH Keys on github and in your ALCF account. 
